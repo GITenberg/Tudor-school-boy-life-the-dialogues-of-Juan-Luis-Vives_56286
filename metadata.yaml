@@ -1,16 +1,21 @@
 _repo: Tudor-school-boy-life-the-dialogues-of-Juan-Luis-Vives_56286
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Watson, Foster
     gutenberg_agent_id: '48764'
     url: http://www.gutenberg.org/2009/agents/48764
+covers:
+- cover_type: archival
+  image_path: 56286-h/images/cover.jpg
 creator:
   author:
     agent_name: Vives, Juan Luis
     gutenberg_agent_id: '48763'
     url: http://www.gutenberg.org/2009/agents/48763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56286#Tudor-school-boy-life-the-dialogues-of-Juan-Luis-Vives
 gutenberg_issued: '2018-01-02'
 gutenberg_type: Text
 identifiers:
